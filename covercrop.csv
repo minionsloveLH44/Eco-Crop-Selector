@@ -1,0 +1,32 @@
+pH,Soil Type,Moisture,Temperature,Rainfall,Erosion Control,Nitrogen Fixation,Weed Suppression,Cover Crop
+4.2,Loamy,High,28,900,Yes,Yes,Yes,Mucuna
+5,Clay,Moderate,30,500,Yes,Yes,No,Ryegrass
+6.5,Sandy,Low,33,200,No,No,Yes,Clover
+5.5,Loamy,High,25,800,Yes,Yes,Yes,Buckwheat
+6,Clay,Moderate,27,450,Yes,Yes,Yes,Sorghum
+6.9,Sandy,Low,35,180,No,Yes,Yes,Ryegrass
+5.3,Loamy,High,22,300,Yes,Yes,Yes,Vetch
+4.9,Clay,Moderate,24,600,Yes,No,Yes,Alfalfa
+5.7,Sandy,High,31,700,Yes,Yes,Yes,Oats
+7.4,Loamy,Low,29,400,No,Yes,No,Rye
+6.2,Clay,Moderate,26,500,Yes,Yes,No,Peas
+7.1,Sandy,Low,34,150,No,Yes,Yes,Sweet Potato
+5.8,Loamy,High,28,300,Yes,No,Yes,Mung Bean
+5.6,Clay,Moderate,25,400,Yes,Yes,Yes,Buckwheat
+6.4,Sandy,Low,32,200,No,Yes,No,Mucuna
+6.7,Loamy,High,29,500,Yes,Yes,Yes,Sorghum
+5.5,Clay,Moderate,33,600,No,Yes,Yes,Ryegrass
+6.3,Sandy,Low,30,250,Yes,No,Yes,Oats
+6.9,Loamy,High,24,450,Yes,Yes,Yes,Clover
+5.1,Clay,Moderate,26,700,No,Yes,No,Alfalfa
+6.8,Sandy,Low,30,150,Yes,Yes,Yes,Rye
+5.8,Loamy,Moderate,28,350,Yes,No,Yes,Buckwheat
+6.5,Clay,Low,32,450,No,Yes,No,Sorghum
+6.2,Sandy,High,29,500,Yes,Yes,Yes,Mung Bean
+5.7,Loamy,Moderate,27,800,Yes,Yes,No,Peas
+6.6,Clay,Low,34,350,No,Yes,Yes,Ryegrass
+7,Sandy,Moderate,28,600,Yes,Yes,Yes,Buckwheat
+6.3,Loamy,High,30,200,Yes,Yes,Yes,Sorghum
+6.8,Clay,Moderate,25,550,Yes,No,Yes,Oats
+6.1,Sandy,Low,33,150,No,Yes,Yes,Vetch
+5.3,Loamy,High,28,700,Yes,Yes,Yes,Clover

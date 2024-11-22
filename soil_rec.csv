@@ -1,0 +1,33 @@
+pH,Temperature,Rainfall,Soil Type,Recommended crop
+4.2,18,1300,Peaty ,Rice
+4.8,21,1100,Peaty ,Sugarcane
+5,19,900,Clay,Potatoes
+5.3,25,850,Loamy,Tomatoes
+5.5,26,1000,Loamy,Chilli Peppers
+6,30,500,Sandy,Wheat
+6.2,28,800,Sandy,Corn
+6.5,33,600,Silty,Soybeans
+7,32,750,Loamy,Peppers
+7.1,23,950,Silty,Lettuce
+7.4,30,1200,Clay,Cabbage
+7.6,35,300,Sandy,Peanuts
+8,27,1100,Loamy,Cotton
+8.3,36,400,Silty,Carrots
+8.7,38,200,Sandy,Watermelon
+6.3,29,700,Sandy,Barley
+6.8,22,950,Loamy,Blueberries
+5.7,24,1200,Peaty ,Strawberries
+7.9,34,350,Clay,Chickpeas
+9,37,300,Silty,Cucumbers
+5.9,27,600,Loamy,Spinach
+6.4,31,550,Silty,Mustard
+4.9,26,1100,Peaty ,Black Pepper
+5.1,23,800,Sandy,Garlic
+6.1,28,900,Loamy,Oats
+6.9,30,750,Silty,Sunflowers
+3.7,19,1000,Peaty ,Black Pepper
+8.4,35,300,Sandy,Sorghum
+7.5,33,700,Loamy,Flax
+4.7,19,1250,Peaty ,Paddy
+8.8,37,100,Sandy,Cantaloupe
+3.9,25,750,Clay,Lettuce
