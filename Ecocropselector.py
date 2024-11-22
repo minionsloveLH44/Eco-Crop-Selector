@@ -45,7 +45,7 @@ if option=="Crop Recommendation" :
         crop=md2.predict(scipdata2)
         st.success(f"Soil Type🪴:{soil[0]}")
         st.success(f"Recommended crop🌱:{crop[0]}")
-elif option="Cover Crop Selection":
+elif option=="Cover Crop Selection":
     st.subheader("Cover Crop Selection")
     ph=st.number_input("Enter pH", min_value=4.2, max_value=8.0, step=0.1)
     soil=st.selectbox("Enter Soil Type", ["Clay", "Sandy", "Loamy"])
