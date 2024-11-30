@@ -40,7 +40,7 @@ if option=="Crop Recommendation" :
     
     if st.button("Predict"):
         ipdata2=pd.DataFrame([[pH,Temperature,Rainfall]],columns=["pH","Temperature","Rainfall"])
-        scipdata2=scaler2.transform(ipdata)
+        scipdata2=scaler2.transform(ipdata2)
         soil=md1.predict(scipdata2)
         crop=md2.predict(scipdata2)
         st.success(f"Soil Type🪴:{soil[0]}")
