@@ -73,7 +73,7 @@ elif option=="Cover Crop Selection":
             wassup_code
         ]], columns=["pH","Soil Type","Moisture","Temperature","Rainfall","Erosion Control","Nitrogen Fixation","Weed Suppression"])
         
-        scipdata1=scaler.transform(ipdata1)
+        scipdata1=scaler1.transform(ipdata1)
         cc=mdc.predict(scipdata1)
         st.success(f"Cover Crop:{cc[0]}")
         st.write("🌷🌹💐Close the browser tab to exit the application🌸🌼🌻")
