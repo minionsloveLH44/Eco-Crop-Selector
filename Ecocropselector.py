@@ -90,4 +90,4 @@ elif option=="Cover Crop Selection":
         scipdata1=scaler1.transform(ipdata1)
         cc=mdc.predict(scipdata1)
         st.success(f"Cover Crop:{cc[0]}")
-        st.write("🌷🌹💐Close the browser tab to exit the applicationmd3=RandomForestClassifier(n_estimators=1000,random_state=1)🌼🌻")
+        st.write("🌷🌹💐Close the browser tab to exit the application🌷🌹💐")
